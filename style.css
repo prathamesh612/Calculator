@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Dhurjati&family=Silkscreen&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: 'Silkscreen', sans-serif;
+    background: #000;
+}
+
+h1 {
+    color: White;
+    border: 2px solid white;
+    border-radius: 25px;
+    text-align: center;
+    padding-bottom: 7px;
+    margin: 20px 0;
+    padding-top: 10px;
+    font-size: 3rem;
+}
+
+.container {
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.508);
+    backdrop-filter: blur(30px);
+    box-shadow: 0px 0px 100px 20px #ffffff89;
+    border: 2px solid;
+    width: 300px;
+    padding: 20px;
+    margin: auto;
+    margin-top: 70px;
+    border-radius: 20px;
+}
+
+.row input {
+    font-family: 'Dhurjati', sans-serif;
+    width: 280px;
+    font-size: 30px;
+    border: 2px solid black;
+    border-radius: 20px;
+    padding-left: 10px;
+    cursor: pointer;
+    margin-bottom: 30px;
+}
+
+.row input:hover {
+    background-color: rgb(255, 215, 201);
+    border-color: #FFF;
+
+}
+
+.btn {
+    font-family: 'Dhurjati', sans-serif;
+    margin: 5px 0;
+    padding-bottom: 7px;
+    width: 69px;
+    font-size: 30px;
+    border: 2px solid black;
+    border-radius: 100px;
+    cursor: pointer;
+}
+
+.btn-color {
+    background-color: rgb(244, 170, 144);
+    color: orangered;
+}
+
+.equalbtn {
+    width: 145px;
+    background-color: orangered;
+    color: #fff;
+    font-weight: 700;
+}
+
+.btn:hover {
+    background-color: #b9aaaa;
+    box-shadow: 0 0 10px 5px #00000032;
+}
+
+.btn-color:hover {
+    background-color: rgb(250, 152, 117);
+    color: #000;
+    border-color: #fff;
+}
+
+.equalbtn:hover {
+    background-color: orangered;
+    box-shadow: 0 0 10px 5px orangered;
+    border-color: #fff;
+}
