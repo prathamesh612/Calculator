@@ -23,6 +23,6 @@ Perform basic arithmetic operations like addition, subtraction, multiplication, 
 
 ---
 
-## 🛠️ Demo 
+## 🎬 Demo 
 🔗 https://simple-calculator-using-html-css-js.blogspot.com/?m=0
 
